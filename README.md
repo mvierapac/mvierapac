@@ -25,7 +25,7 @@ I'm currently learning and deepening my knowledge of **Web Accessibility**, beca
 ### Frontend
 
 <div align="left">  
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue&perline=4" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue&perline=5" />&nbsp;&nbsp;
   <a href="https://pinia.vuejs.org" target="_blank">
     <img src="https://pinia.vuejs.org/logo.svg" width="40" height="40" alt="Pinia Logo" />
   </a>&nbsp;&nbsp;
